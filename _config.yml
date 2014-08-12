@@ -12,6 +12,7 @@ github_username:  linuxsidareja
 # Build settings
 markdown: kramdown
 permalink: /:title/
+baseurl: /rtikcilacap/
 
 cdn:
   css:            //maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css
