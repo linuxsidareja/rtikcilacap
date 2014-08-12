@@ -11,7 +11,7 @@
       <div class="container">
 	  <div class="blog-header">
 		<h1 class="blog-title">{{ site.title }}</h1>
-		<p class="lead blog-description">{{ site.short_description }}</p>
+		<p class="lead blog-description">{{ site.tagline }}</p>
 	  </div>
 	  
 		  <div class="row">
@@ -22,7 +22,7 @@
 			<div class="col-sm-3 col-sm-offset-1 blog-sidebar">
 				<div class="sidebar-module sidebar-module-inset">
 				<h4>Little Text</h4>
-				<p>Ada banyak variasi tulisan Lorem Ipsum yang tersedia, tapi kebanyakan sudah mengalami perubahan bentuk, entah karena unsur humor atau kalimat yang diacak hingga nampak sangat tidak masuk akal.</p>
+				<p>{{ site.description }}</p>
 				</div>
 				<h3>Blog</h3>
 				{% include blogs_ul.html %}

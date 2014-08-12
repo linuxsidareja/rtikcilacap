@@ -2,8 +2,8 @@
 title: RelawanTIK Cilacap
 email: info@rtikcilacap.or.id
 author: relawan tik cilacap
-short_description: "Tagline RTIK Cilacap apa ya..."
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+tagline: "Tagline RTIK Cilacap apa ya..."
+description: "Ada banyak variasi tulisan Lorem Ipsum yang tersedia, tapi kebanyakan sudah mengalami perubahan bentuk, entah karena unsur humor atau kalimat yang diacak hingga nampak sangat tidak masuk akal."
 baseurl: ""
 url: "http://rtikcilacap.or.id"
 twitter_username: RTIKCilacap
@@ -12,9 +12,4 @@ github_username:  linuxsidareja
 # Build settings
 markdown: kramdown
 permalink: /:title/
-baseurl: /rtikcilacap/
-
-cdn:
-  css:            //maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css
-  css_theme:      //maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css
-  js:             //maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js
+baseurl: /rtikcilacap
